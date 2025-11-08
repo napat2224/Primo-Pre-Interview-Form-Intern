@@ -1,0 +1,32 @@
+{
+  "name": "primo-pre-interview-form-intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merge.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napat2224/Primo-Pre-Interview-Form-Intern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/napat2224/Primo-Pre-Interview-Form-Intern/issues"
+  },
+  "homepage": "https://github.com/napat2224/Primo-Pre-Interview-Form-Intern#readme",
+  "devDependencies": {
+    "@jest/globals": "^30.2.0",
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
