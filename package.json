@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "run": "ts-node run.ts",
     "test": "jest"
   },
   "repository": {
